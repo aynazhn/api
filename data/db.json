@@ -1,0 +1,54 @@
+{
+  "articles": [
+      
+          {
+              "id": 1,
+              "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDAzXafoV2RDPvTnZ9jc11D_AM1Tla6vUIviA3HoyNQ48_5CaMrw91K4yr2n9T1d3-RQc&usqp=CAU",
+              "title": "عنوان اول",
+              "readingTime": 5
+          },
+          {
+              "id": 2,
+              "imgUrl": "https://media.licdn.com/dms/image/C560BAQEskfI9hk9Ngg/company-logo_200_200/0/1631377202734?e=2147483647&v=beta&t=Cay9yyEbGRPTnXJ1HJdBMGHA5jSrdPPvaMt7O4PUCUA",
+              "title": "عنوان دوم",
+              "readingTime": 3
+          },
+          {
+              "id": 3,
+              "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwFulyftpvqrNM1ArdKdu9XZQyBp5iC-9Evw&usqp=CAU",
+              "title": "عنوان سوم",
+              "readingTime": 5
+          },
+          {
+              "id": 4,
+              "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDAzXafoV2RDPvTnZ9jc11D_AM1Tla6vUIviA3HoyNQ48_5CaMrw91K4yr2n9T1d3-RQc&usqp=CAU",
+              "title": "عنوان چهارم",
+              "readingTime": 6
+          },
+          {
+              "id": 5,
+              "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDAzXafoV2RDPvTnZ9jc11D_AM1Tla6vUIviA3HoyNQ48_5CaMrw91K4yr2n9T1d3-RQc&usqp=CAU",
+              "title": "عنوان پنجم",
+              "readingTime": 5
+          },
+          {
+              "id": 6,
+              "imgUrl": "https://media.licdn.com/dms/image/C560BAQEskfI9hk9Ngg/company-logo_200_200/0/1631377202734?e=2147483647&v=beta&t=Cay9yyEbGRPTnXJ1HJdBMGHA5jSrdPPvaMt7O4PUCUA",
+              "title": "عنوان ششم",
+              "readingTime": 3
+          },
+          {
+              "id": 7,
+              "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwFulyftpvqrNM1ArdKdu9XZQyBp5iC-9Evw&usqp=CAU",
+              "title": "عنوان هفتم",
+              "readingTime": 5
+          },
+          {
+              "id": 8,
+              "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDAzXafoV2RDPvTnZ9jc11D_AM1Tla6vUIviA3HoyNQ48_5CaMrw91K4yr2n9T1d3-RQc&usqp=CAU",
+              "title": "عنوان هشتم",
+              "readingTime": 6
+          }
+      ]
+  
+}

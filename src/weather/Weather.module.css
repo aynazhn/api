@@ -1,0 +1,6 @@
+.box{
+    background-color: aquamarine;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
